@@ -24,6 +24,5 @@ Using the data that we collected, we wanted to answer the following questions:
 
 
 ## Authors
-*Ken Hoffman
-*Zhi Chen
+Ken Hoffman and Zhi Chen
 
