@@ -48,6 +48,9 @@ Based on the data that we accumulated, we were able to come to a few conclusions
 * Although movies with a very high production budget usually bring in the most net profit, there is not much of a difference in net profit between movies with a production budget of $40,000,000 or less.
 * Movies between 90 minutes and 180 minutes are the most profitable and popular
 
+## Powerpoint
+https://docs.google.com/presentation/d/1FR-r_Er4f9UT26Dw3YVGCkOd585HF4rP0rrwe149U-U/edit?usp=sharing
+
 
 ## Authors
 Ken Hoffman and Zhi Chen
