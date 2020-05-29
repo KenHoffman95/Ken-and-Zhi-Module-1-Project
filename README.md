@@ -24,6 +24,8 @@ Visualizations
 * Boxplot Relationship between Net Profit and Production Budget.png
 * Scatterplot Relationship between Net Profit and Production Budget.png
 Jupyter Notebooks
+
+Jupyter Notebooks
 * project_1.ipynb - using webscraping of Box Office Mojo, this notebook explores the relationships between Movie Genres, Production Budget, Runtime and net profit. 
 * Creating Bar Chart of Net Profits by Year.ipynb - this notebook explores the trends in the movie industry related to net profits 
 * Determining Net Profit based on Length of Movie.ipynb - this notebook explores the relationship between movie runtime and net profits
