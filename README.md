@@ -16,12 +16,20 @@ Using the data that we collected, we wanted to answer the following questions:
 * Is there a relationship between the duration of a movie and its net profit? If so, are short movies or long movies more profitable?
 
 ## Files in this Repository
-*
-*
-*
-*
-*
-
+Visualizations
+* Bar Chart Mean Net Profit by MPAA Rating.png
+* Bar Chart Mean Net Profit by Year.png
+* Boxplot Relationship Between Net Profit and Duration of Movie.png	
+* Boxplot Relationship between Net Profit and Genre.png
+* Boxplot Relationship between Net Profit and Production Budget.png
+* Scatterplot Relationship between Net Profit and Production Budget.png
+Jupyter Notebooks
+* project_1.ipynb - using webscraping of Box Office Mojo, this notebook explores the relationships between Movie Genres, Production Budget, Runtime and net profit. 
+* Creating Bar Chart of Net Profits by Year.ipynb - this notebook explores the trends in the movie industry related to net profits 
+* Determining Net Profit based on Length of Movie.ipynb - this notebook explores the relationship between movie runtime and net profits
+* Net Profit based on Genre.ipynb - this notebook explores the relationship between movie genre and net profit
+* Net Profit for Movies by MPAA Rating.ipynb - this notebook explores the relationship between a movie's MPAA rating and its net profit
+* Visualizations to show Relationship Between Production Budget and Net Profit.ipynb	- this notebook explores the relationship between a movie's production budget and its net profit
 
 ## Authors
 Ken Hoffman and Zhi Chen
