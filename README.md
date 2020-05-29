@@ -24,10 +24,17 @@ Visualizations
 * Boxplot Relationship between Net Profit and Genre.png
 * Boxplot Relationship between Net Profit and Production Budget.png
 * Scatterplot Relationship between Net Profit and Production Budget.png
+* Average profit margin of various genres
+* Average budget for different genres
+* Average profit margin by seasons
+* Average profit margin for different months
+* Popularity of different genres
+* Vote average and vote count for different genres
+
 Jupyter Notebooks
 
 Jupyter Notebooks
-* project_1.ipynb - using webscraping of Box Office Mojo, this notebook explores the relationships between Movie Genres, Production Budget, Runtime and net profit. 
+* project_1.ipynb - using webscraping of Box Office Mojo website, API calls with TMDB to get data from online resources, clean up the data, sort out the data, analyze data and then explores the relationships between profit margin and various Movie Genres, Production Budget and different movie genres, popularity vs movie genres, runtime vs profit margin. Vote average and vote counts are also visualized and discussed. Notebook also analyzed if release date affect movie profit margin and popularity.
 * Creating Bar Chart of Net Profits by Year.ipynb - this notebook explores the trends in the movie industry related to net profits 
 * Determining Net Profit based on Length of Movie.ipynb - this notebook explores the relationship between movie runtime and net profits
 * Net Profit based on Genre.ipynb - this notebook explores the relationship between movie genre and net profit
