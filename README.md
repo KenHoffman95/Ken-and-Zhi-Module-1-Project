@@ -42,7 +42,7 @@ Jupyter Notebooks
 
 ## Conclusion
 
-Based on the data that we accumulated, we were able to come to a few conclusions regarding movies that are the most profitable and critically acclaimed:
+Based on the data that we accumulated, we were able to come to a few conclusions regarding movies that are the most profitable and popular:
 * The genre of movies that are most popular are Action, Fantasy, Sci Fi and Adventure movies. The genre of movies that have the highest profit margin are Crime, Horror, Thriller and Action movies. 
 * PG-13 rated movies are the most profitable while G rated movies and R rated movies are the least profitable.
 * Although movies with a very high production budget usually bring in the most net profit, there is not much of a difference in net profit between movies with a production budget of $40,000,000 or less.
